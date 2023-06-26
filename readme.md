@@ -1,1 +1,1 @@
-![Alt text]("spline.png")
+![Alt text](spline.png)
