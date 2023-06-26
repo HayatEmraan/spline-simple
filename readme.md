@@ -1,1 +1,1 @@
-![Alt text](spline.png)
+![Spline | Simple](spline.png)
